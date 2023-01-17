@@ -1,0 +1,94 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(18, 47, 211, 0.504);
+}
+
+
+.BLOK {
+
+    position: relative;
+    max-width: 800px;
+    width: 100%;
+    border-radius: 6px;
+    padding: 30px;
+    margin: 0 15px;
+    background-color: white;
+    box-shadow: 0 5px 10px rgba(red, green, blue, alpha);
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin: 20px;
+    justify-content: center;
+    justify-items: center;
+    
+}
+
+.tombol {
+    background-color: rgba(18, 47, 211, 0.504);
+    color:rgb(255, 255, 255) ;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    padding: 10px 15px;
+    font-size: 17px;
+    margin-left: 25px;
+}
+
+.tomboll {
+    background-color: rgba(18, 47, 211, 0.504);
+    color: rgb(255, 255, 255);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    padding: 10px 20px;
+    font-size: 17px;
+    margin-left: 25px;
+}
+.tombol:hover {
+    background-color: darkturquoise;
+}
+.tomboll:hover {
+    background-color: aqua;
+
+}
+
+
+.tombol:active {
+    background-color: darkgrey;
+}
+
+
+.tomboll:active {
+    background-color: darkgrey;
+}
+
+ 
+.NIM {
+    width: 50%;
+
+    
+    
+}
+.nama {
+    width: 50%;
+
+}
+
+.jemis {
+    width: 50%;
+}
+
+.agama {
+    width: 50%;
+}
+
+
+
+
